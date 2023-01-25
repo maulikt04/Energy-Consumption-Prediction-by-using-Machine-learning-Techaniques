@@ -32,7 +32,7 @@ All the big work of data collection has been done by the UK power networks for t
 
 ### Road Map of the project:
 1) Data geathering with different multiple files (In our case we have 111 files of daily_dataset_csv and 1 weather_daily_dark_sky)
-2) Data Cleaning like remove unnecessary columns, change datatype, date-time extraction, Various kind of suitable encoding methods, use various pandas joins which helpful to merge two different dataframes etc.
+2) Data Cleaning like remove unnecessary columns, change datatype, date-time extraction, Various kind of suitable encoding methods, use various pandas joins which helpful to merge two different dataframes, fill null data by using various methods etc.
 3) Visulized the data by various libraries and dashboard 
 4) Feature Scaling and feature selection with help of correlation study.
 5) After finish the data pre processing, we can try various machine learning models according to case of learning based methods.
