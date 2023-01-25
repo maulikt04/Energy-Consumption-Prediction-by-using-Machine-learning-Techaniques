@@ -41,7 +41,7 @@ All the big work of data collection has been done by the UK power networks for t
 8) Conclusion
 
 ### Existing Research:
-### [1]https://www.kaggle.com/datasets/jeanmidev/smart-meters-london?select=weather_hourly_darksky.csv
+# [1]https://www.kaggle.com/datasets/jeanmidev/smart-meters-london?select=weather_hourly_darksky.csv
 ### [2] Anna-Kaarina Seppalä, Stephan Baur, Sudhir Jha, and Emmanuel Benjamin “Simple Regression Model for Energy Demand: Case Study in Rural Areas of Nepal”.
 ### [3] M.R. Braun, H. Altan, S.B.M. Beck “Using regression analysis to predict the future energy consumption of a supermarket in the UK”. Journal of Elsevier- Applied Energy.
 ### [4] Carlos Peña-Guzmán∗, Juliana Rey “Forecasting residential electric power consumption for Bogotá Colombia using regression models”. Journal of Elsevier- Energy Report volume- 6.
