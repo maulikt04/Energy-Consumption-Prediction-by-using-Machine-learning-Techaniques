@@ -42,7 +42,7 @@ All the big work of data collection has been done by the UK power networks for t
 
 ### Programming Language and Libraries:
 1) Python
-2) Sklearn: Pandas, Numpy, Matplotlib, Seaboarn
+2) Sklearn: Pandas, Numpy, Matplotlib, Seaboarn, model_selection
 3) Visulization tools: Tableau, Power BI (Optional)
 
 ### Existing Research:
