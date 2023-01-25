@@ -1,6 +1,5 @@
 # Energy-Consumption-Prediction-by-using-Machine-learning-Techaniques
---> Downstream of Data Analysis and Machine learning
---> Time Series Data
+--> Downstream of Data Analysis and Machine learning (Time Series Data Analysis)
 
 
 ### About the project abstract:
