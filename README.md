@@ -41,9 +41,9 @@ All the big work of data collection has been done by the UK power networks for t
 8) Conclusion
 
 ### Programming Language and Libraries:
-. Python
-. Sklearn: Pandas, Numpy, Matplotlib, Seaboarn
-. Visulization tools: Tableau, Power BI (Optional)
+1) Python
+2) Sklearn: Pandas, Numpy, Matplotlib, Seaboarn
+3) Visulization tools: Tableau, Power BI (Optional)
 
 ### Existing Research:
 1) https://www.kaggle.com/datasets/jeanmidev/smart-meters-london?select=weather_hourly_darksky.csv
