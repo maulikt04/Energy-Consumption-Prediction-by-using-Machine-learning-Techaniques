@@ -40,6 +40,11 @@ All the big work of data collection has been done by the UK power networks for t
 7) Determine the various parameters like model accuracy, Errors, Matrix etc. 
 8) Conclusion
 
+### Programming Language and Libraries:
+. Python
+. Sklearn: Pandas, Numpy, Matplotlib, Seaboarn
+. Visulization tools: Tableau, Power BI (Optional)
+
 ### Existing Research:
 1) https://www.kaggle.com/datasets/jeanmidev/smart-meters-london?select=weather_hourly_darksky.csv
 2) Anna-Kaarina Seppalä, Stephan Baur, Sudhir Jha, and Emmanuel Benjamin “Simple Regression Model for Energy Demand: Case Study in Rural Areas of Nepal”.
