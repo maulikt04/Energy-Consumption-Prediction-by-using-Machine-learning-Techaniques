@@ -1,4 +1,4 @@
-# Energy-Consumption-Prediction-by-using-Machine-learning-Techaniques (Student Project associated with Universität Siegen, NRW, Germany)
+# Energy-Consumption-Prediction-by-using-Machine-learning-Techaniques (Student Project)
 --> Downstream of Data Analysis and Machine learning (Time Series Data Analysis)
 
 
@@ -7,3 +7,9 @@ The maximum Population and Industrial sectors are responsible for huge amount of
 
 ### About Dataset:
 https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london?select=weather_hourly_darksky.csv
+
+
+### Contex:
+Population and industries are continuously increasing in the world day to day. So, the use of energy consumption is continuously increased. When energy usage rises, the climate undergoes numerous changes. The government intends to provide the electricity for smart meters to be installed in every home in England, Wales, and Scotland. There are more than 26 million houses for energy providers to reach, with the objective of putting a smart meter in every home by 2020 [1].
+The European Union, which has ordered all member countries to look into smart meters as part of initiatives to modernize our energy supply and combat climate change, is driving this rollout. The British government opted to use smart meters as part of their effort to modernize our aging energy grid after doing preliminary research [1].
+The energy usage readings for a sample of 5,567 London Households who participated in the UK Power Networks-led Low Carbon London initiative between November 2011 and February 2014 are contained in this dataset from the London data store. The smart meter data appears to be linked only to electrical energy use [1].
