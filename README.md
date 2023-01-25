@@ -30,10 +30,22 @@ All the big work of data collection has been done by the UK power networks for t
 2) Unsupervised Learning
 3) Reinforcement Learning
 
-### Road Map of project:
+### Road Map of the project:
 1) Data geathering with different multiple files (In our case we have 111 files of daily_dataset_csv and 1 weather_daily_dark_sky)
 2) Data Cleaning like remove unnecessary columns, change datatype, date-time extraction, Various kind of suitable encoding methods, use various pandas joins which helpful to merge two different dataframes etc.
-3) Feature Scaling and feature selection with help of correlation study.
-4) After finish the data pre processing, we can try various machine learning models according to case of learning based methods.
-5) Model Validation with help of various method, check and defind suitable model with valid model validation
-6) Determine the various parameters like model accuracy, Errors, Matrix etc. 
+3) Visulized the data by various libraries and dashboard 
+4) Feature Scaling and feature selection with help of correlation study.
+5) After finish the data pre processing, we can try various machine learning models according to case of learning based methods.
+6) Model Validation with help of various method, check and defind suitable model with valid model validation
+7) Determine the various parameters like model accuracy, Errors, Matrix etc. 
+8) Conclusion
+
+### Existing Research:
+[1]https://www.kaggle.com/datasets/jeanmidev/smart-meters-london?select=weather_hourly_darksky.csv
+[2] Anna-Kaarina Seppalä, Stephan Baur, Sudhir Jha, and Emmanuel Benjamin “Simple Regression Model for Energy Demand: Case Study in Rural Areas of Nepal”.
+[3] M.R. Braun, H. Altan, S.B.M. Beck “Using regression analysis to predict the future energy consumption of a supermarket in the UK”. Journal of Elsevier- Applied Energy.
+[4] Carlos Peña-Guzmán∗, Juliana Rey “Forecasting residential electric power consumption for Bogotá Colombia using regression models”. Journal of Elsevier- Energy Report volume- 6.
+[5] Literature review purpose - Western Sydney University
+[6] Correlation – Wikipedia – Knowledge purpos
+
+
